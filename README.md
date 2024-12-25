@@ -1,4 +1,12 @@
 # Fitting Poisson  distribution
+ex no : 02
+
+DATE:
+
+NAME:R.TRISHA
+
+REGISTER NO: 212224100062
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
@@ -10,8 +18,6 @@ Python and Visual component tool
 # Theory:
 
 The Poisson distribution is the discrete probability distribution of the number of events occurring in a given time period, given the average number of times the event occurs over that time period.
-
-![image](https://user-images.githubusercontent.com/104613195/166248326-fd042076-8b0b-40c4-8b11-1d8e8fcb74db.png)
 
  Conditions for Poisson Distribution:
 
@@ -29,11 +35,13 @@ The Poisson distribution is the discrete probability distribution of the number 
 ![image](https://user-images.githubusercontent.com/103921593/230282876-f4a5afbf-cac1-4648-a1b0-c78840638a8e.png)
 
 # Program :
+![Screenshot 2024-12-25 165622](https://github.com/user-attachments/assets/780ed05b-e4fa-44ef-98d0-7a0651f8b280)
 
  
 
 # Output : 
 
+![Screenshot 2024-12-25 165638](https://github.com/user-attachments/assets/4bbe173b-4af5-459e-8ad2-3d44406d0008)
 
 
 # Results
