@@ -1,11 +1,11 @@
 # Fitting Poisson  distribution
 ex no : 02
 
-DATE:
+DATE:5/2/2026
 
 NAME:R.TRISHA
 
-REGISTER NO: 212224100062
+REGISTER NO: 212224100061
 
 # Aim : 
 
